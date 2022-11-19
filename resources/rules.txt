@@ -1,0 +1,2 @@
+document size: 64x64
+text size: 32wx12h
