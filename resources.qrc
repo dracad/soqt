@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resources/Serial_port.svg</file>
+        <file>resources/ethernet-connector-UDP.svg</file>
+        <file>resources/file.svg</file>
+        <file>resources/gate.svg</file>
+        <file>resources/tcp.svg</file>
+        <file>resources/delete-svgrepo-com.svg</file>
+        <file>resources/open-folder-svgrepo-com.svg</file>
+        <file>resources/info-svgrepo-com.svg</file>
+        <file>resources/Serial_port_linux.svg</file>
+        <file>resources/Serial_port_virtual.svg</file>
+        <file>resources/zoom-in-svgrepo-com.svg</file>
+        <file>resources/zoom-out-svgrepo-com.svg</file>
+        <file>resources/cursor-svgrepo-com.svg</file>
+        <file>resources/serial-tasks-svgrepo-com.svg</file>
+        <file>resources/add-svgrepo-com.svg</file>
+        <file>resources/arrow-right-2-svgrepo-com.svg</file>
+        <file>resources/flow-connection-svgrepo-com.svg</file>
+        <file>resources/move-svgrepo-com.svg</file>
+        <file>resources/gears-svgrepo-com.svg</file>
+    </qresource>
+    <qresource prefix="/drawings">
+        <file>resources/arrow.svg</file>
+    </qresource>
+</RCC>
